@@ -1,0 +1,14 @@
+GANITHA KADUWA LMS — DELIVERY STATUS
+
+Delivered: Responsive multi-page front-end UI prototype and source files.
+Not yet delivered: Production backend, database, real authentication, real payment gateway, protected video hosting, Zoom API integration, production deployment.
+
+Before going live:
+1. Confirm page designs and all course/fee details with the teacher.
+2. Choose hosting, database and authentication provider.
+3. Implement role-based permissions (student/teacher/admin).
+4. Integrate payment gateway and manual bank receipt verification.
+5. Host existing recordings privately and issue short-lived/authorised playback links.
+6. Add Zoom links with access checks.
+7. Import real course content and student records safely.
+8. Test security, backups, mobile/desktop and payment edge cases.
